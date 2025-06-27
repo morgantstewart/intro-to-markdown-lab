@@ -27,6 +27,6 @@ The fastest snails can move at speeds up to 0.7 miles per hour. How can we class
 ## Conclusion
 It doesn't really matter how fast the snails are. They would never compete with a fast animal, such as a cheetah. 
 
-
+![Computer with Code](https://media.istockphoto.com/id/1256827666/photo/cheetah-acinonyx-jubatus-running.jpg?s=612x612&w=0&k=20&c=ckvnb6imtSU9lYS8T4g1-5FROnwYub0m5Z5nWD4inIE=)
 
 *For more information on standardized snail speeds, see [Snail Speed Data.](https://hypertextbook.com/facts/1999/AngieYee.shtml).*
